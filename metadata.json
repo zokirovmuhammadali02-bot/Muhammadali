@@ -1,0 +1,6 @@
+{
+  "name": "Ingliz Tili Testi va Dizayn Sozlamasi",
+  "description": "Ingliz tili darajasini tekshiruvchi test, rangli orqa fonlar va dynamic dizayn sozlamalari, hamda AI savollar generatori bilan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
